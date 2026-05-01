@@ -34,8 +34,8 @@ Project Report:
 
 ## Contributors
 
-* Aicha Rikli(https://www.linkedin.com/in/aicharikli443?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+* [Aicha Rikli](https://www.linkedin.com/in/aicharikli443?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 * Kholod Almutairi()
-* Hissah ibn Qurmulah(https://github.com/Hissah-IbnQurmulah)
+* [Hissah ibn Qurmulah](https://github.com/Hissah-IbnQurmulah)
 * Reem Alsuhaim
 * Shahad Alshehri()
