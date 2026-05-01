@@ -25,17 +25,17 @@ The application allows students to explore the college map, search for digital c
 ## Prototype
 
 Figma Design:
-[Add Figma Link Here]
+[Here](https://www.figma.com/design/nUveTpzmYkswMYFnG5HZ1H/Untitled?node-id=0-1&t=2f03HSR8BG4TMmXf-1)
 
 ## Report
 
 Project Report:
-[Add PDF / Report Link Here]
+[Report Link Here]()
 
 ## Contributors
 
-* Aicha Rikli
-* Kholod Almutairi
-* Hissah ibn Qurmulah
+* Aicha Rikli(https://www.linkedin.com/in/aicharikli443?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+* Kholod Almutairi()
+* Hissah ibn Qurmulah(https://github.com/Hissah-IbnQurmulah)
 * Reem Alsuhaim
-* Shahad Alshehri
+* Shahad Alshehri()
