@@ -22,11 +22,10 @@ Mughamarat 01 transforms studying into an active adventure. Students explore a v
 This repository documents the full HCI lifecycle: from problem analysis and heuristic-based UI design to an empirical usability study with seven participants. The accompanying report details quantitative performance metrics, qualitative feedback, and data-driven recommendations for refining the prototype.
 
 ## Prototype
-Figma Design:[Here](https://www.figma.com/design/nUveTpzmYkswMYFnG5HZ1H/Untitled?node-id=0-1&t=2f03HSR8BG4TMmXf-1)** (Figma)
+Figma Design:[Here](https://www.figma.com/design/nUveTpzmYkswMYFnG5HZ1H/Untitled?node-id=0-1&t=2f03HSR8BG4TMmXf-1)
 
 ## Report
-[Here](Mughamarat 01 HCI Project Report.pdf)
-
+[Here](Mughamarat%2001%20HCI%20Project%20Report.pdf)
 
 ## Contributors
 
