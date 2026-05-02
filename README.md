@@ -25,7 +25,7 @@ This repository documents the full HCI lifecycle: from problem analysis and heur
 Figma Design:[Here](https://www.figma.com/design/nUveTpzmYkswMYFnG5HZ1H/Untitled?node-id=0-1&t=2f03HSR8BG4TMmXf-1)** (Figma)
 
 ## Report
-[Here](Mughamarat 01 HCI Project Report.pdf)** (PDF)
+[Here](Mughamarat 01 HCI Project Report.pdf)
 
 
 ## Contributors
