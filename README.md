@@ -1,16 +1,12 @@
 # Mughamarat 01
 
-This project was created for the CSC440 – Human Computer Interaction course at King Saud University.
+A conceptual educational mobile app for King Saud University's CSC440 HCI course that blends gamification with location-based learning to combat sedentary study habits.
 
-Mughamarat 01 is a conceptual educational mobile application that combines gamification and location-based learning for Computer Science students.
+> **Note:**The project focuses on the idea, user experience, and interactive interface design. It does not include a fully implemented application, and the current work consists of UI/UX design, user flow, and interactive prototype screens only.
 
-The project focuses on the idea, user experience, and interactive interface design. It does not include a fully implemented application, and the current work consists of UI/UX design, user flow, and interactive prototype screens only.
 
-## Project Idea
-
-Mughamarat 01 is designed to make studying more interactive and enjoyable.
-
-The application allows students to explore the college map, search for digital creatures around the campus, and answer course-related questions to earn points, rewards, and improve their leaderboard ranking.
+## The Concept
+Mughamarat 01 transforms studying into an active adventure. Students explore a virtual campus map to find digital creatures representing course questions. By physically moving to "catch" them and answering correctly, users earn points, unlock rewards, and climb the department leaderboard—turning passive revision into an engaging, active experience.
 
 ## Main Features
 
@@ -22,20 +18,20 @@ The application allows students to explore the college map, search for digital c
 * Leaderboard system
 * Interactive and user-friendly UI
 
-## Prototype
+## Project Depth
+This repository documents the full HCI lifecycle: from problem analysis and heuristic-based UI design to an empirical usability study with seven participants. The accompanying report details quantitative performance metrics, qualitative feedback, and data-driven recommendations for refining the prototype.
 
-Figma Design:
-[Here](https://www.figma.com/design/nUveTpzmYkswMYFnG5HZ1H/Untitled?node-id=0-1&t=2f03HSR8BG4TMmXf-1)
+## Prototype
+Figma Design:[Here](https://www.figma.com/design/nUveTpzmYkswMYFnG5HZ1H/Untitled?node-id=0-1&t=2f03HSR8BG4TMmXf-1)** (Figma)
 
 ## Report
+[Here](./Mughamarat 01 HCI Project Report.pdf)** (PDF)
 
-Project Report:
-[Report Link Here]()
 
 ## Contributors
 
-* [Aicha Rikli](https://www.linkedin.com/in/aicharikli443?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-* Kholod Almutairi()
+* [Aicha Rikli](https://github.com/AichaRi)
+* Kholod Almutairi
 * [Hissah ibn Qurmulah](https://github.com/Hissah-IbnQurmulah)
-* Reem Alsuhaim
-* Shahad Alshehri()
+* [Reem Alsuhaim](https://github.com/Reem-Alsuhaim)
+* Shahad Alshehri
